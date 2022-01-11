@@ -155,7 +155,7 @@ a {
   }
 
   nav.shown {
-    border-top: 1px solid #c5808f;
+    border-top: 1px solid #400d01;
     padding-top: 1rem;
     display: flex;
     flex: 1 1 100%;

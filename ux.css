@@ -54,7 +54,11 @@ main {
   background-color: #d5befca6;
   padding: 20px;
 }
-
+.nederst {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
 /* web */
 @media (min-width: 950px) {
   #first_section .section_wrapper {
@@ -123,12 +127,16 @@ main {
   #fifth_section .section_wrapper .element_2 {
     padding: 10px;
   }
-
+  #sixth_section {
+    padding: 30px;
+  }
   #sixth_section .section_wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
-    padding-top: 20px;
+    margin: 20px;
+    /* padding-top: 20px;
+     */
   }
   #seven_section .section_wrapper {
     display: grid;

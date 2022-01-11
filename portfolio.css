@@ -1,3 +1,14 @@
+header {
+  background-color: #bfd7e1a8;
+  padding: 20px;
+  position: sticky;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
 main {
   margin: 30px;
 }

@@ -90,9 +90,19 @@
   margin-top: 20px;
   padding: 30px;
 }
+#fourth_section .section_wrapper .col_2 .top {
+  display: flex;
+  justify-content: center;
+}
+#fourth_section .section_wrapper .col_2 .top .mig_billede {
+  width: 60%;
+}
 
 #fourth_section .section_wrapper .col_2 .bottom {
   text-align: center;
+}
+#fourth_section .section_wrapper .col_2 {
+  margin-bottom: 20px;
 }
 
 /* web */
