@@ -1,4 +1,8 @@
 /* mobile */
+.bottom {
+  display: flex;
+  justify-content: center;
+}
 /* first section */
 #first_section {
   display: grid;
@@ -6,6 +10,7 @@
   /* grid-template-rows: repeat(2, 1fr); */
   background-image: url(fotos/blomst.webp);
 }
+
 #first_section .col_1 {
   background-color: #ffffff8a;
   margin: 30px;
@@ -21,6 +26,10 @@
 }
 #first_section .col_1 .element_2 {
   padding: 30px;
+}
+#first_section .col_1 .element_4 {
+  display: flex;
+  justify-content: center;
 }
 
 /* first section */
@@ -88,6 +97,10 @@
 
 /* web */
 @media (min-width: 950px) {
+  .bottom {
+    display: flex;
+    justify-content: center;
+  }
   #first_section {
     background-image: url(fotos/blomst.webp);
     background-size: cover;
