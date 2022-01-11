@@ -76,7 +76,7 @@ h3 {
 }
 
 p {
-  font-family: "IBM Plex Serif", serif;
+  font-family: "Montserrat", sans-serif;
   color: #400d01;
   margin: 10px;
   /* samler teksten så den er overskuelig at læse */
@@ -101,7 +101,7 @@ footer {
 button {
   color: #ffffff;
   background-color: #400d01;
-  font-family: "Abril Fatface", cursive;
+  font-family: "Montserrat", sans-serif;
   font-size: 1rem;
   padding: 10px;
   text-decoration: none;

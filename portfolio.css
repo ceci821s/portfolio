@@ -62,6 +62,6 @@ main {
     justify-content: center;
   }
   #fifth_section .col_1 .element_1 {
-    padding: 40px;
+    width: 50%;
   }
 }
