@@ -98,7 +98,11 @@ footer {
 }
 
 /* knap */
-button {
+.knap {
+  display: flex;
+  justify-content: left;
+}
+.button {
   color: #ffffff;
   background-color: #400d01;
   font-family: "Montserrat", sans-serif;
@@ -106,6 +110,7 @@ button {
   padding: 10px;
   text-decoration: none;
   margin: 0%;
+  text-align: center;
 }
 a {
   color: white;
