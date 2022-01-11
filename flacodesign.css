@@ -30,7 +30,6 @@ main {
 #fifth_section .section_wrapper .col_1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: repeat(auto 1fr 1fr);
 }
 #fifth_section .section_wrapper .col_1 .element_1 {
   grid-column: 1/4;
